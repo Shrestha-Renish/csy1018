@@ -17,4 +17,4 @@ section div:first-child{padding: 4%; background: blue; width: 17%; float: left;}
 section div:nth-child(2){padding:4%; background: green; width: 53%; float: left;}
 
 section{}
-footer{padding: 4%; background: yellow; margin-top: 0.5%; width: 78%;}
+footer{padding: 10%; background: yellow; margin-top: 0.5%; width: 78%;}
