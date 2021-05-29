@@ -1,0 +1,16 @@
+body{margin:0px;}
+.container{
+			display: flex; flex-direction: column-reverse; flex-grow: 200px;
+}
+.head{
+	background-color: indigo; height: 100px;
+}
+.left{
+	background-color: red; width:50%; height: 100px; text-align: left;
+}
+.right{
+	background-color: yellow; width:50%; height: 100px;
+}
+.foot{
+	background-color: green; height: 100px; margin-bottom: 0px;
+}
